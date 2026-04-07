@@ -1,3 +1,8 @@
 .venv
 Cloud_Anomaly_Detection.ipynb
 temp
+.DS_Store
+.env
+
+Documents
+nb1
